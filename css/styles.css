@@ -14,9 +14,20 @@
     overflow: hidden;
     height: 70px;
     line-height: 70px;
-    background-color: blue-400;
+    background-color: '#188EE9';
+    border-bottom: 2px slategray;
 }
 .logo{
     width: 60px;
     float: left;
+}
+.menu{
+    float: right;
+}
+.menu li{
+    float: left;
+    width: 120px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
 }
